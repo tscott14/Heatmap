@@ -1,0 +1,13 @@
+# Ignore Docker build files
+.DS_Store
+docker-compose.yml
+Dockerrun.aws.json
+
+# Ignore Bash and Vim files
+*.swp
+*.swo
+*~
+
+# Ignore environment variables
+.env
+markup
